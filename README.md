@@ -19,3 +19,4 @@
 
 6. **Desenhe um Diagrama de Fluxo Mapeando os Passos do Algoritmo:**
    - Diagrama de fluxo criado utilizando a ferramenta MIRO.
+   - Imagem disponível nos documentos
